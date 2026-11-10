@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0f766e"/>
+  <path d="m125 190 275-105 275 105H125Z" fill="#e8b86d"/>
+  <path d="M180 210h440v115H180z" fill="#fff" opacity=".9"/>
+  <path d="M230 225v80M330 225v80M430 225v80M530 225v80" stroke="#0f766e" stroke-width="22"/>
+  <text x="40" y="405" fill="#fff" font-family="Arial" font-size="30">Bank Management System</text>
+</svg>

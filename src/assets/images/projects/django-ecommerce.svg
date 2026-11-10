@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#3043b5"/>
+  <rect x="110" y="75" width="580" height="260" rx="18" fill="#fff" opacity=".95"/>
+  <rect x="145" y="115" width="150" height="150" rx="12" fill="#e8b86d"/>
+  <rect x="330" y="115" width="150" height="150" rx="12" fill="#edf2f8"/>
+  <rect x="515" y="115" width="140" height="150" rx="12" fill="#d9e0ff"/>
+  <text x="40" y="405" fill="#fff" font-family="Arial" font-size="30">Django E-commerce</text>
+</svg>

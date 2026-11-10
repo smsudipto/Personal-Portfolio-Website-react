@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#111827"/>
+  <path d="M285 0 515 0 680 450H120L285 0Z" fill="#374151"/>
+  <path d="m395 0 10 0 30 450h-10L395 0Z" fill="#e8b86d"/>
+  <path d="m230 285 55-55h230l55 55v70H230Z" fill="#4257d6"/>
+  <circle cx="295" cy="355" r="28" fill="#111827"/>
+  <circle cx="505" cy="355" r="28" fill="#111827"/>
+  <text x="40" y="420" fill="#fff" font-family="Arial" font-size="30">3D Car Racing Game</text>
+</svg>
